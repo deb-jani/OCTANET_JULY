@@ -1,2 +1,2 @@
 # OCTANET_JULY
-Intership assigned tasks of Octanet(July)
+Internship assigned tasks of Octanet(July)
